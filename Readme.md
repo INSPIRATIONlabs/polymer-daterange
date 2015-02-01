@@ -6,4 +6,4 @@ See the [component page](https://inspirationlabs.github.io/polymer-daterange) fo
 You can add moment instances to fromdate and todate attributes for data binding.
 
 
-Created by: [INSPIRATIONlabs](https://inspirationlabs.com)
+Creafted with passion by: [INSPIRATIONlabs](https://inspirationlabs.com)
