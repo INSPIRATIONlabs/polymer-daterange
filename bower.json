@@ -1,0 +1,35 @@
+{
+  "name": "polymer-daterange",
+  "version": "0.0.1",
+  "authors": [
+    "Dominic Böttger <Dominic.Boettger@inspirationlabs.com>"
+  ],
+  "description": "Date range selector written in polymer",
+  "keywords": [
+    "polymer-daterange",
+    "date",
+    "web-components",
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "../"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5",
+    "paper-dialog": "Polymer/paper-dialog#^0.5",
+    "paper-input": "polymer/paper-input#^0.5",
+    "paper-button": "polymer/paper-button#^0.5",
+    "core-selector": "polymer/core-selector#^0.5",
+    "core-icon": "Polymer/core-icon#^0.5",
+    "core-icons": "Polymer/core-icons#^0.5",
+    "paper-button": "Polymer/paper-button#^0.5"
+  },
+  "main": "polymer-daterange.html",
+  "homepage": "https://github.com/INSPIRATIONlabs/polymer-daterange"
+}
