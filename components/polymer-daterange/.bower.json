@@ -1,0 +1,46 @@
+{
+  "name": "polymer-daterange",
+  "authors": [
+    "Dominic Böttger <Dominic.Boettger@inspirationlabs.com>"
+  ],
+  "description": "Date range selector written in polymer",
+  "keywords": [
+    "polymer-daterange",
+    "date",
+    "web-components",
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "../"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5",
+    "paper-dialog": "Polymer/paper-dialog#^0.5",
+    "paper-input": "polymer/paper-input#^0.5",
+    "paper-button": "Polymer/paper-button#^0.5",
+    "core-selector": "polymer/core-selector#^0.5",
+    "core-icon": "Polymer/core-icon#^0.5",
+    "core-icons": "Polymer/core-icons#^0.5",
+    "moment": "~2.9.0",
+    "moment-range": "~1.0.5",
+    "paper-icon-button": "polymer/paper-icon-button#^0.5"
+  },
+  "main": "polymer-daterange.html",
+  "homepage": "https://github.com/INSPIRATIONlabs/polymer-daterange",
+  "_release": "938145f635",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "938145f6355bc860748847d4df2069b75432aa8c"
+  },
+  "_source": "git://github.com/INSPIRATIONlabs/polymer-daterange.git",
+  "_target": "master",
+  "_originalSource": "INSPIRATIONlabs/polymer-daterange",
+  "_direct": true
+}

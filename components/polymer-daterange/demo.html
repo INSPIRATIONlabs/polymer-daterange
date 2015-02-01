@@ -1,0 +1,19 @@
+<html>
+<head>
+  <script src="../moment/moment.js"></script>
+  <script src="../moment-range/lib/moment-range.js"></script>
+  <link rel="import" href="../polymer/polymer.html">
+  <link rel="import" href="polymer-daterange.html">
+</head>
+<body>
+  <template id="auto-bind-date" is="auto-binding">
+    <polymer-daterange fromDate="{{fromDate}}" toDate="{{toDate}}"></polymer-daterange>
+  </template>
+
+  <script>
+    var t = document.querySelector('#auto-bind-date');
+    t.fromDate = new moment().subtract(2, 'days');
+    t.toDate = new moment().add(1, 'days');
+  </script>
+</body>
+</html>

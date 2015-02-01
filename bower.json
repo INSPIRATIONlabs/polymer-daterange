@@ -1,0 +1,7 @@
+{
+  "name": "polymer-daterange#gh-pages",
+  "private": true,
+  "dependencies": {
+    "polymer-daterange": "INSPIRATIONlabs/polymer-daterange#master"
+  }
+}
