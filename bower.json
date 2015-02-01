@@ -1,6 +1,6 @@
 {
   "name": "polymer-daterange",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": [
     "Dominic Böttger <Dominic.Boettger@inspirationlabs.com>"
   ],
@@ -28,7 +28,7 @@
     "core-selector": "polymer/core-selector#^0.5",
     "core-icon": "Polymer/core-icon#^0.5",
     "core-icons": "Polymer/core-icons#^0.5",
-    "paper-icon-button": "Polymer/paper-button#^0.5",
+    "paper-icon-button": "Polymer/paper-icon-button#^0.5",
     "moment": "~2.9.0",
     "moment-range": "~1.0.5"
   },
